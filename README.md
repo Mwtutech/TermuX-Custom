@@ -1,14 +1,4 @@
-<h1 align="center">TermuX-Custom</h1>
 
-<p align="center"> 
-  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
-<br>
-<br>
-  <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
 ## Description
@@ -66,7 +56,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the TermuX-Custom6 repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/mwtutech/TermuX-Custom
     ```
 
 [-] Navigate to the cloned repository directory:
@@ -86,16 +76,6 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/mwtutech/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
 ```
-## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
-
-You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
-```
-1. You may not use the contents of this repository for illegal or unethical activities.
-2. You may not misrepresent the origin or authorship of the contents of this repository.
-3. You may not hold the author or contributors liable for any damages or legal issues arising from the use or misuse of the contents of this repository.
-```
-By accessing or using the contents of this repository, you agree to abide by these terms and conditions.
